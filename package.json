@@ -32,8 +32,8 @@
     "classnames": "^2.2.3",
     "compression": "^1.6.2",
     "express": "^4.13.4",
-    "mobx": "^2.0.0",
-    "mobx-react": "^3.0.0",
+    "mobx": "^5.7.0",
+    "mobx-react": "^5.4.2",
     "mobx-react-devtools": "^4.0.5",
     "morgan": "^1.7.0",
     "react": "^0.14.6",
@@ -43,5 +43,13 @@
     "todomvc-common": "^1.0.2",
     "url-loader": "^0.5.7",
     "webpack-hot-middleware": "^2.10.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyeongTak/react_chat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HyeongTak/react_chat/issues"
+  },
+  "homepage": "https://github.com/HyeongTak/react_chat#readme"
 }
